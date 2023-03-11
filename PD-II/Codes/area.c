@@ -19,4 +19,3 @@ void main(){
     
     printf("Area of the circle with the radius of %d is : %.2f",radius, result);
 }
-
