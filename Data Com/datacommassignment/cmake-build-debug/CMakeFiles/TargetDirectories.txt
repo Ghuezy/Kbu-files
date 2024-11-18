@@ -1,0 +1,3 @@
+C:/Users/ghuezy/CLionProjects/datacommassignment/cmake-build-debug/CMakeFiles/datacommassignment.dir
+C:/Users/ghuezy/CLionProjects/datacommassignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ghuezy/CLionProjects/datacommassignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
