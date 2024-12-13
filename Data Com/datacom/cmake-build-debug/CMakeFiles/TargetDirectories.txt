@@ -1,0 +1,4 @@
+C:/Users/salih/CLionProjects/datacom/cmake-build-debug/CMakeFiles/weather_server.dir
+C:/Users/salih/CLionProjects/datacom/cmake-build-debug/CMakeFiles/weather_client.dir
+C:/Users/salih/CLionProjects/datacom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/salih/CLionProjects/datacom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

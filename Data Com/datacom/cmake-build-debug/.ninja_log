@@ -1,0 +1,12 @@
+# ninja log v6
+2	1295	7557037923817843	build.ninja	8652fe7888d18293
+23	967	7557011145308080	CMakeFiles/datacom.dir/weather_server.c.obj	a788f5bb7a08d41a
+28	964	7557011145358324	CMakeFiles/datacom.dir/weather_client.c.obj	878528afa3eb753f
+5	786	7557026957713114	CMakeFiles/weather_server.dir/weather_server.c.obj	68796cabcb553b17
+5	935	7557037811620737	CMakeFiles/weather_client.dir/weather_client.c.obj	5795ae8990542410
+936	1023	7557037820929844	weather_client.exe	383fc27e24e583e8
+787	888	7557026965523272	weather_server.exe	aa316355418464fb
+5	814	7557038022463239	CMakeFiles/weather_server.dir/weather_server.c.obj	68796cabcb553b17
+815	888	7557038030561796	weather_server.exe	aa316355418464fb
+5	856	7557041721694808	CMakeFiles/weather_server.dir/weather_server.c.obj	68796cabcb553b17
+857	944	7557041730205941	weather_server.exe	aa316355418464fb
